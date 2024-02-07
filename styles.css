@@ -1,0 +1,31 @@
+#classButton{
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+#calculateButton{
+    font-size: 24px;
+    padding: 10px, 20px;
+    vertical-align: top;
+}
+
+#tableCell{
+    vertical-align: top;
+}
+
+#classes_table{
+    vertical-align: top;
+}
+
+#buttonCell{
+    vertical-align: top;
+    padding-left: 50px;
+}
+
+#GPA_Text{
+    vertical-align: top;
+}
+
+#GPA_Field{
+    vertical-align: top;
+}
